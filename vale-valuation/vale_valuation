@@ -1,0 +1,12 @@
+vale-valuation/
+│
+├── data/
+│   └── vale_valuation.csv
+│
+├── src/
+│   └── valuation.py
+│
+├── dashboard/
+│   └── vale_dashboard.pbix
+│
+└── README.md

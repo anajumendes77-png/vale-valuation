@@ -6,7 +6,7 @@ Projeto de análise de dados aplicado ao mercado financeiro, com foco na constru
 
 Desenvolver uma análise inicial da ação VALE3 a partir de dados históricos, estimando um preço justo com base no retorno médio e apresentando os resultados de forma visual.
 
-## Tecnologias utilizadas
+## Ferramentas utilizadas
 
 * Python
 * Pandas
@@ -30,8 +30,8 @@ Desenvolver uma análise inicial da ação VALE3 a partir de dados históricos, 
 
 Visualização da série histórica da ação com indicação do preço justo estimado.
 
-![Gráfico Python](images/grafico_precodeacao.png)
-![Gráfico Python](images/grafico_python.png)
+![Gráfico Python](grafico_precodeacao.png)
+![Gráfico Python](grafico_python.png)
 
 ### Dashboard no Power BI
 

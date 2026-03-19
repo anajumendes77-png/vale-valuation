@@ -39,7 +39,7 @@ Visualização da série histórica da ação com indicação do preço justo es
 
 Dashboard interativo com análise do preço da ação e comparação com o preço justo estimado.
 
-<img width="467" height="341" alt="image" src="https://github.com/user-attachments/assets/88f76e04-8ba9-49e2-a010-090bd7a05468" />
+<img width="500" height="452" alt="image" src="https://github.com/user-attachments/assets/235a0a64-c95c-450c-9b89-5fdf541531c2" />
 
 
 ## Exemplo de código

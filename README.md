@@ -30,7 +30,8 @@ Desenvolver uma análise inicial da ação VALE3 a partir de dados históricos, 
 
 Visualização da série histórica da ação com indicação do preço justo estimado.
 
-![GráficoPython](imagens/grafico_python.png)
+![Gráfico Python](imagens/gráfico_python.png)
+![Gráfico Python](imagens/gráfico_precodeacao.png)
 
 ### Dashboard no Power BI
 

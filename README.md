@@ -34,10 +34,12 @@ Visualização da série histórica da ação com indicação do preço justo es
 <img width="978" height="493" alt="grafico_precodeacao" src="https://github.com/user-attachments/assets/3e19919c-2db9-483c-a5d1-6a7093b6b034" />
 
 
-
 ### Dashboard no Power BI
 
 Dashboard interativo com análise do preço da ação e comparação com o preço justo estimado.
+
+<img width="467" height="341" alt="image" src="https://github.com/user-attachments/assets/88f76e04-8ba9-49e2-a010-090bd7a05468" />
+
 
 ## Exemplo de código
 
